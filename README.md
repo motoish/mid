@@ -8,7 +8,7 @@ Edit docker-compose.yml with `midPoint + postgres` fitable versions.
 
 ```text
 > midPoint(4.0.3) + postgres(12) <
-> midPoint(4.3) + postgres(14) <
+> midPoint(4.4) + postgres(14) <
 ```
 
 - To build `docker-compose-{midPoint_version}.yml`
