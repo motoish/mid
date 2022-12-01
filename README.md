@@ -22,3 +22,5 @@ $ docker-compose -f docker-compose-{midPoint_version}.yml up
 ```sh
 $ docker-compose docker-compose-{midPoint_version}.yml down
 ```
+
+[Ref](https://docs.evolveum.com/)
